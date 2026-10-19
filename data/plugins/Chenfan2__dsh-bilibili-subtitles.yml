@@ -1,0 +1,6 @@
+url: https://github.com/Chenfan2/dsh-bilibili-subtitles
+name: Chenfan2/dsh-bilibili-subtitles
+category: skill
+description:
+  en: 'Extract Bilibili platform/AI subtitles or external/embedded/ASR/OCR fallback and render Markdown, Word, PDF, TXT, SRT or JSON with timestamps, bilingual alignment and a quality report.'
+  zh: '从 Bilibili 视频或本地视频提取字幕，输出 Markdown、Word、PDF、TXT、SRT 或 JSON，支持时间戳、双语对齐和质量报告。'
